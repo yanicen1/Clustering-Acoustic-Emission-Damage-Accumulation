@@ -1,1 +1,2 @@
-# Clustering-Acoustic-Emission-Damage-Accumulation
+# Clustering Acoustic Emission Signals for Analyzing Damage Accumulation in Materials
+
